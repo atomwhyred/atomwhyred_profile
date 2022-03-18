@@ -1,5 +1,5 @@
 # atomwhyred_profile
-Personal Web Profile
+Landing page adecuada para crear un perfil de usuario
 
 https://atomwhyred-profile.netlify.app/
 
